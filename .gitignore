@@ -1,0 +1,33 @@
+# Credenciais
+config/database.php
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.project
+.settings/
+nbproject/
+
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# PHP
+vendor/
+composer.lock
+*.phar
+
+# Logs e cache
+*.log
+/tmp/
+/cache/
+
+# Ambiente
+.env
+.env.*
